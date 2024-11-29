@@ -54,8 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   사용자가 만족할 수 있는 제품을 만들고 비즈니스 성장에 기여하는 개발자가 되고 싶습니다.
 
-  감사합니다.
-
 content:
   # - title: Projects # Title for the section
     # layout: list # Type of content section (list/text)
