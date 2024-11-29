@@ -110,62 +110,102 @@ content:
           - 사용기술: Vue2, Nuxt, Veux, Typescript
 
       - layout: left
-        title: Keytalk AI
-        link: https://www.keytalkai.com
+        title: 투라인코드
+        link: https://www.twolinecode.com
         # link_text: boringcompany.com
         sub_title: Front-end Developer
-        caption: 2024.01 ~ 2024.10
+        caption: 2022.11 ~ 2023.10
         # quote: >
         #   루이스 개발 (2024.01 ~ 2024.10)
         description: | # this will include new lines to allow paragraphs
-          루이스 개발 (2024.01 ~ 2024. 10)
-          - WebSocket 을 사용하여 프롬프트 엔지니어링을 통한 스토리 생성 기능 개발
-          - 스토리 저작권 소유와 음악 저작권 및 이미지 저작권 소유를 위한 NFT 개발
-          - 스토리에 걸맞는 음악을 AI로 생성해주는 백그라운드 뮤직 기능 개발
-          - 사용기술: React, Next.js, Redux, Typescript, WebSocket
+          TMAP 공항버스 운행 관리 시스템 개발/운영 (2022.11 ~ 2023. 02)
+          - TMAP 공항버스 Admin 페이지 개발 (정시성, 일별탑승율, 월별탑승율 등)
+          - Vue3와 Quasar를 이용한 UI 개발 및 상태 관리
+          - REST API와 Axios를 활용한 API 통신
+          - JWT를 사용한 로그인/회원가입 기능 구현
+          - xlsx.js 라이브러리를 활용한 엑셀 업로드 및 추출 기능 개발
+          - TMAP에서 제공하는 지도 오픈소스 api를 통해 공항버스의 실시간 위치를 지도에 표시해주는 기능 개발
+          - 사용기술: Vue3, TypeScript, Quasar, Pinia, Axios, JWT, xlsx.js
 
-          프롬프트 어드민 페이지 개발 (2024.06 ~ 2024.07)
-          - 사용자가 프롬프트를 만들어보고 테스트(속도비교, 결과값) 하여 결과값들을 비교 할 수 있는 페이지 개발
-          - 실제로 서비스에 사용하는 프롬프트를 반영하기 위해 프롬프트를 관리하는 담당자의 검수를 받아야 하는 프로세스 과정을 개발
-          - 프롬프트를 어떻게 관리하여 어떻게 개선해왔고 어떻게 결과값을 도출했는지 한 눈에 볼 수 있는 히스토리 페이지 개발
-          - 회사 상장에 필요한 기술평가 자료에 프롬프트 어드민 사용
-          - 사용기술: React, Next.js, Redux, Typescript,AWS Cognito
+          Snowflake 파트너십 PBS 상품 개발 (2023.02 ~ 2023.04)
+          - Snowflake를 사용하는 업체별 관리 페이지 개발
+          - Vue3와 Quasar를 이용한 UI 개발 및 상태 관리
+          - Snowflake OAuth를 이용한 로그인 기능 구현
+          - 사용기술: Vue3, TypeScript, Quasar, Pinia, Axios, Snowflake OAuth
 
-          마이셀럽스 스타 (2024.01 ~ 2024.10)
-          - 한달에 약 150~200만 트래픽이 발생하는 앱으로서 쿠팡광고, 구글ADS 등 여러 광고를 붙이는 작업 진행
-          - 전반적으로 도맡아서 유지보수 (매주 배너 워딩 수정, 배너광고 수정, 모달광고 수정 등)
-          - 사용기술: Vue2, Nuxt, Veux, Typescript
+          공항버스 승객 예약 서비스 개발 (2023.04 ~ 2023.07)
+          - TMAP 공항버스 Admin 페이지의 승객 예약 관련 기능 개발 (매출 현황, 예약자 현황 등)
+          - Vue3와 Quasar를 이용한 UI 개발 및 상태 관리
+          - JWT를 사용한 로그인/회원가입 기능 구현
+          - 사용기술: Vue3, TypeScript, Quasar, Pinia, Axios, JWT
 
-          스테이피아 (2024.01 ~ 2024.10)
-          - 호텔 상세페이지에서 kayak을 통해 예약 할 수 있도록 기능개발
-          - 전세계적으로 사용하는 호텔예약사이트로서 사용지 비중이 외국인이 높기때문에 다국어 기능 개발 및 유지보수
-          - 사용기술: Vue2, Nuxt, Veux, Typescript
+          SK 브로드밴드 셋톱박스 관리 시스템 개발 (2023.09 ~ 2023.10)
+          - SK 브로드밴드 셋톱박스 관리 시스템의 Admin 페이지 개발 및 수정
+          - JSP를 사용한 UI 개발
+          - 사용기술: jQuery, JSP
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: 유니아이텍
+        link: http://www.unique1.co.kr
+        # link_text: boringcompany.com
+        sub_title: Front-end Developer
+        caption: 2021.07 ~ 2022.07
+        # quote: >
+        #   루이스 개발 (2024.01 ~ 2024.10)
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          홈앤쇼핑 유지보수 (2021.07 ~ 2022. 10)
+          - 상품 목록 페이지 유지보수 및 찜 기능 개발
+          - React와 Styled-components를 사용하여 UI 개발
+          - 사용기술: React, Styled-components
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          홈앤쇼핑 이데이잇츠 정기배송 프로젝트 (2021.10 ~ 2022.07)
+          - 정기배송 장바구니 및 상품 상세 페이지 개발
+          - React-Router-Dom을 이용한 SPA 개발
+          - Axios를 사용한 API 통신
+          - 가변형 설문 개발 (MyBatis 사용)
+          - 이니시스를 이용한 결제 기능 개발 (협업)
+          - 사용기술: React, Styled-components, React-Router-Dom, Axios, MyBatis
+
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: 동의대학교
+  #       caption: 2010 - 2013
+  #       sub_title: 광고홍보학과
+  #       quote: >
+  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  #       description: | # this will include new lines to allow paragraphs
+  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      언어
+      - HTML5, CSS3, JavaScript, TypeScript
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      프레임워크
+      - React, Vue, Nextjs, Nuxtjs
+
+      상태관리
+      - Recoil, Redux, Pinia
+
+      형상관리
+      - Github, GitLab
+
+      CSS
+      - Style-component, Scss, Tailwind, Quasar
+
+      협업툴
+      - Jira, Slack, Git
+
+      자격증
+      - CKA (Certified Kubernetes Administrator)
+
+      티스토리
+      - https://leedhhhhh.tistory.com
 
 # Footer
 footer_show_references: true
