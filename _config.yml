@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: 이동형
 title: Frontend Developer
-email: leedhhhhh@naver.com
+email: leedhhhhh@gmail.com
 website: www.github.com/leedhhhhh
 
 # Dark Mode (true/false/never)
@@ -48,9 +48,9 @@ github_username: leedhhhhh
 # about_title: About Me
 about_profile_image: images/profile1.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  안녕하세요. 프론트엔드 개발자 이동형입니다. 사용자가 만족할 수 있는 제품을 만들고 비즈니스 성장에 기여하는 개발자가 되고 싶습니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  TypeScript, React(Next.js), Vue(Nuxt.js) 기반의 프론트엔드를 주로 다루며 최근에는 서비스 최적화 및 향상을 위하여 불필요한 재랜더링 최소화, 번들 사이즈 최적화 등 고객이 서비스를 원할하게 이용할 수 있도록 성능 개선 면에 집중하고 있습니다.
 
 content:
   - title: Projects # Title for the section
