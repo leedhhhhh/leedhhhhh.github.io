@@ -56,23 +56,23 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   # - title: Projects # Title for the section
-    # layout: list # Type of content section (list/text)
-    # content:
-    #   - layout: top-middle
-    #     title: Super awesome project
-    #     link: github.com/sproogen
-    #     # link_text: Project Website
-    #     additional_links:
-    #       - title: sproogen/modern-resume-theme
-    #         icon: fab fa-github
-    #         url: github.com/sproogen/modern-resume-theme
-    #       # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # layout: list # Type of content section (list/text)
+  # content:
+  #   - layout: top-middle
+  #     title: Super awesome project
+  #     link: github.com/sproogen
+  #     # link_text: Project Website
+  #     additional_links:
+  #       - title: sproogen/modern-resume-theme
+  #         icon: fab fa-github
+  #         url: github.com/sproogen/modern-resume-theme
+  #       # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #   icon: fab fa-github
+  #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  # quote: >
+  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  # description: | # this will include new lines to allow paragraphs
+  #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -86,11 +86,17 @@ content:
         # quote: >
         #   루이스 개발 (2024.01 ~ 2024.10)
         description: | # this will include new lines to allow paragraphs
-        루이스 개발 (2024.01 ~ 2024. 10)
+          루이스 개발 (2024.01 ~ 2024. 10)
           - WebSocket 을 사용하여 프롬프트 엔지니어링을 통한 스토리 생성 기능 개발
           - 스토리 저작권 소유와 음악 저작권 및 이미지 저작권 소유를 위한 NFT 개발
           - 스토리에 걸맞는 음악을 AI로 생성해주는 백그라운드 뮤직 기능 개발
           - 사용기술: React, Next.js, Redux, Typescript, WebSocket
+          프롬프트 어드민 페이지 개발 (2024.06 ~ 2024.07)
+          - 사용자가 프롬프트를 만들어보고 테스트(속도비교, 결과값) 하여 결과값들을 비교 할 수 있는 페이지 개발
+          - 실제로 서비스에 사용하는 프롬프트를 반영하기 위해 프롬프트를 관리하는 담당자의 검수를 받아야 하는 프로세스 과정을 개발
+          - 프롬프트를 어떻게 관리하여 어떻게 개선해왔고 어떻게 결과값을 도출했는지 한 눈에 볼 수 있는 히스토리 페이지 개발
+          - 회사 상장에 필요한 기술평가 자료에 프롬프트 어드민 사용
+          - 사용기술: React, Next.js, Redux, Typescript,AWS Cognito
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
