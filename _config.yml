@@ -86,28 +86,33 @@ content:
         # quote: >
         #   루이스 개발 (2024.01 ~ 2024.10)
         description: | # this will include new lines to allow paragraphs
-          루이스 개발 (2024.01 ~ 2024. 10)
+          루이스 개발 (2024.01 ~ 2024. 10) - Lewis 프로젝트 프론트엔드 리드 개발자로 환경 구축부터 개발, 배포까지 진행했으며, 해당 프로젝트 유지보수와 이후 해당 프로젝트의 프롬프트 관리 및 서비스 관리를 위한 프로젝트 백오피스까지 개발을 도맡아 진행
+          - 프로젝트 환경 구축부터 배포까지 리드 개발
+          - 프롬프트 관리 및 서비스 관리를 위한 프로젝트 백오피스 개발
           - WebSocket 을 사용하여 프롬프트 엔지니어링을 통한 스토리 생성 기능 개발
-          - 스토리 저작권 소유와 음악 저작권 및 이미지 저작권 소유를 위한 NFT 개발
-          - 스토리에 걸맞는 음악을 AI로 생성해주는 백그라운드 뮤직 기능 개발
-          - 사용기술: React, Next.js, Redux, Typescript, WebSocket
+          - 스토리 저작권 소유를 위한 NFT 개발
+          - 스토리에 걸맞는 음악을 AI로 생성해주는 백그라운드 뮤직 기능 개발(프론트엔드)
+          - i18n 을 사용한 다국어 처리 개발
+          - 사용기술: React, Next.js, Redux, Typescript, WebSocket, AWS (S3, Cognito, Amplify, Clout Front, Route 53), GIthub Actions, i18n
 
-          프롬프트 어드민 페이지 개발 (2024.06 ~ 2024.07)
+          프롬프트 어드민 페이지 개발 (2024.06 ~ 2024.07) - 프롬프트 담당 관리자가 현재까지 엑셀을 활용해 프롬프트를 관리하는 것을 보고 직접 기획, 디자인, 배포까지 진행 개발한 프로젝트로서 담당자의 프롬프트 관리를 위한 백오피스 사이트 개발
+          - 기획부터 디자인, 개발, 배포까지 담당
+          - 크롤링 방지를 위해 AWS Cognito, Amplify를 활용한 회원가입 및 로그인 구현
           - 사용자가 프롬프트를 만들어보고 테스트(속도비교, 결과값) 하여 결과값들을 비교 할 수 있는 페이지 개발
           - 실제로 서비스에 사용하는 프롬프트를 반영하기 위해 프롬프트를 관리하는 담당자의 검수를 받아야 하는 프로세스 과정을 개발
           - 프롬프트를 어떻게 관리하여 어떻게 개선해왔고 어떻게 결과값을 도출했는지 한 눈에 볼 수 있는 히스토리 페이지 개발
           - 회사 상장에 필요한 기술평가 자료에 프롬프트 어드민 사용
-          - 사용기술: React, Next.js, Redux, Typescript,AWS Cognito
+          - 사용기술: React, Next.js, Redux, Typescript, AWS (S3, Cognito, Amplify, Clout Front, Route 53), GIthub Actions
 
           마이셀럽스 스타 (2024.01 ~ 2024.10)
           - 한달에 약 150~200만 트래픽이 발생하는 앱으로서 쿠팡광고, 구글ADS 등 여러 광고를 붙이는 작업 진행
           - 전반적으로 도맡아서 유지보수 (매주 배너 워딩 수정, 배너광고 수정, 모달광고 수정 등)
-          - 사용기술: Vue2, Nuxt, Veux, Typescript
+          - 사용기술: Vue2, Nuxt, Veux, Typescript, AWS (S3, Cognito, Amplify, Clout Front, Route 53), GIthub Actions
 
           스테이피아 (2024.01 ~ 2024.10)
           - 호텔 상세페이지에서 kayak을 통해 예약 할 수 있도록 기능개발
           - 전세계적으로 사용하는 호텔예약사이트로서 사용지 비중이 외국인이 높기때문에 다국어 기능 개발 및 유지보수
-          - 사용기술: Vue2, Nuxt, Veux, Typescript
+          - 사용기술: Vue2, Nuxt, Veux, Typescript, AWS (S3, Cognito, Amplify, Clout Front, Route 53), GIthub Actions
 
       - layout: left
         title: 투라인코드
@@ -141,8 +146,7 @@ content:
 
           SK 브로드밴드 셋톱박스 관리 시스템 개발 (2023.09 ~ 2023.10)
           - SK 브로드밴드 셋톱박스 관리 시스템의 Admin 페이지 개발 및 수정
-          - JSP를 사용한 UI 개발
-          - 사용기술: jQuery, JSP
+          - 사용기술: React, TypeScript, Axios, Style Component
 
       - layout: left
         title: 유니아이텍
@@ -155,16 +159,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           홈앤쇼핑 유지보수 (2021.07 ~ 2022. 10)
           - 상품 목록 페이지 유지보수 및 찜 기능 개발
-          - React와 Styled-components를 사용하여 UI 개발
-          - 사용기술: React, Styled-components
+          - 사용기술: JSP, Java Spring, MyBatis
 
           홈앤쇼핑 이데이잇츠 정기배송 프로젝트 (2021.10 ~ 2022.07)
           - 정기배송 장바구니 및 상품 상세 페이지 개발
-          - React-Router-Dom을 이용한 SPA 개발
-          - Axios를 사용한 API 통신
           - 가변형 설문 개발 (MyBatis 사용)
           - 이니시스를 이용한 결제 기능 개발 (협업)
-          - 사용기술: React, Styled-components, React-Router-Dom, Axios, MyBatis
+          - 사용기술: JSP, Java Spring, MyBatis
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
