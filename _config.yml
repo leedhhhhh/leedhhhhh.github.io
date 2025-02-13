@@ -87,6 +87,7 @@ content:
         #   루이스 개발 (2024.01 ~ 2024.10)
         description: | # this will include new lines to allow paragraphs
           루이스 개발 (2024.01 ~ 2024. 10) 
+          
           Lewis 프로젝트 프론트엔드 리드 개발자로 환경 구축부터 개발, 배포까지 진행했으며, 해당 프로젝트 유지보수와 이후 해당 프로젝트의 프롬프트 관리 및 서비스 관리를 위한 프로젝트 백오피스까지 개발을 도맡아 진행
          
           - 프로젝트 환경 구축부터 배포까지 리드 개발
@@ -98,6 +99,7 @@ content:
           - 사용기술: React, Next.js, Redux, Typescript, WebSocket, AWS (S3, Cognito, Amplify, Clout Front, Route 53), GIthub Actions, i18n
 
           프롬프트 어드민 페이지 개발 (2024.06 ~ 2024.07) 
+          
           프롬프트 담당 관리자가 현재까지 엑셀을 활용해 프롬프트를 관리하는 것을 보고 직접 기획, 디자인, 배포까지 진행 개발한 프로젝트로서 담당자의 프롬프트 관리를 위한 백오피스 사이트 개발
           
           - 기획부터 디자인, 개발, 배포까지 담당
